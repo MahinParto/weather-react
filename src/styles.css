@@ -1,0 +1,31 @@
+.App {
+  font-family: Roboto;
+  margin: 20px;
+  text-align: center;
+}
+
+.Search input {
+  font-family: Roboto;
+  padding: 5px;
+  font-size: 18px;
+  border: 1px solid black;
+}
+
+.Weather {
+  text-align: left;
+  font-size: 20px;
+  line-height: 2;
+}
+
+.Weather h4 {
+  font-size: 24px;
+  font-family: Roboto;
+}
+
+.Weather img {
+  width: 150px;
+}
+
+.Search input {
+  background: rgb(214, 213, 213);
+}
